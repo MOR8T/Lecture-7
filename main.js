@@ -65,14 +65,12 @@
 // #3
 
 
-let res = 3;
-let d = 4
-try{
-    res = 5/d;
-    console.log(res)
-}
-catch(error){
-    console.log(error);
-}
-
-
+// let res = 3;
+// let d = 4
+// try{
+//     res = 5/d;
+//     console.log(res)
+// }
+// catch(error){
+//     console.log(error);
+// }
