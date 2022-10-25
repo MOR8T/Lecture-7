@@ -50,15 +50,30 @@
 // Say("Shahrom",Text);
 
 
-let num = 3;
-let Prom = new Promise(function(resolve,reject){
-    if(num %2==0){
-        resolve("Even");
-    }
-    else{
-        reject("Odd");
-    }
-});
+// let num = 3;
+// let Prom = new Promise(function(resolve,reject){
+//     if(num %2==0){
+//         resolve("Even");
+//     }
+//     else{
+//         reject("Odd");
+//     }
+// });
 
-console.log(Prom);
+// console.log(Prom);
+
+// #3
+
+
+let res = 0;
+
+try{
+    setTimeout(()=>{
+    res = 5/d;
+    console.log(res);
+    },1000);
+}
+catch{
+    console.log(error);
+}
 
