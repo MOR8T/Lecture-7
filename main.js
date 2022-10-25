@@ -65,20 +65,14 @@
 // #3
 
 
-// let res = 3;
-
-// try{
-//     if(res%2!=0){
-//         res+=1;
-//         // deystvie
-//     }
-// }
-// catch(error){
-//     console.log(error);
-// }
-// finally{
-//     res-=1;
-// }
-// console.log(res);
+let res = 3;
+let d = 4
+try{
+    res = 5/d;
+    console.log(res)
+}
+catch(error){
+    console.log(error);
+}
 
 
