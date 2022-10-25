@@ -37,3 +37,15 @@
 // h1.innerHTML = cnt;
 // },2000);
 
+// #2
+
+function Say(Name,text){
+    console.log(`Hello ${Name}`);
+    text();
+}
+
+function Text(){
+    console.log("how are you ")
+}
+Say("Shahrom",Text);
+

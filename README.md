@@ -8,10 +8,13 @@
 ![](./img/js3.jpg)
 ## method setTimeout()
 ![](./img/js2.jpg)
-## method setTimeout()
+## method setInterval()
 ![](./img/js4.jpg)
 #
 ## #2 CallBack and Promise
-![]()
+## CallBack
+![](./img/js5.jpg)
+## Promise
+![](./img/js6.jpg)
 #
 ## #3 Try/catch/finally and Asunc await
