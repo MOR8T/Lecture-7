@@ -65,15 +65,19 @@
 // #3
 
 
-let res = 0;
+// let res = 3;
 
-try{
-    setTimeout(()=>{
-    res = 5/d;
-    console.log(res);
-    },1000);
-}
-catch{
-    console.log(error);
-}
+// try{
+//     if(res%2!=0){
+//         res+=1;
+//         // deystvie
+//     }
+// }
+// catch(error){
+//     console.log(error);
+// }
+// finally{
+//     res-=1;
+// }
+// console.log(res);
 
