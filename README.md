@@ -16,6 +16,7 @@
 ## #2 CallBack and Promise
 ## CallBack
 ![](./img/js5.jpg)
+#
 ## Promise
 ![](./img/fon2.png)
 ### when true
