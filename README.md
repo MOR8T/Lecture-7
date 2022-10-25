@@ -17,8 +17,8 @@
 ## CallBack
 ![](./img/js5.jpg)
 ## Promise
-### if true resolve else reject
 ![](./img/fon2.png)
 ![](./img/js6.jpg)
+![](./img/js7.jpg)
 #
 ## #3 Try/catch/finally and Asunc await

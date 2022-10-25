@@ -50,7 +50,7 @@
 // Say("Shahrom",Text);
 
 
-let num = 4;
+let num = 3;
 let Prom = new Promise(function(resolve,reject){
     if(num %2==0){
         resolve("Even");
@@ -61,3 +61,4 @@ let Prom = new Promise(function(resolve,reject){
 });
 
 console.log(Prom);
+
