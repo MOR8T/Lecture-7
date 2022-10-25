@@ -7,14 +7,18 @@
 ## Asynchronous
 ![](./img/js3.jpg)
 ## method setTimeout()
+### setTimeout("function",minsec)
 ![](./img/js2.jpg)
 ## method setInterval()
+### setTimeout("function",minsec)
 ![](./img/js4.jpg)
 #
 ## #2 CallBack and Promise
 ## CallBack
 ![](./img/js5.jpg)
 ## Promise
+### if true resolve else reject
+![](./img/fon2.png)
 ![](./img/js6.jpg)
 #
 ## #3 Try/catch/finally and Asunc await

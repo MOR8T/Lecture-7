@@ -39,13 +39,25 @@
 
 // #2
 
-function Say(Name,text){
-    console.log(`Hello ${Name}`);
-    text();
-}
+// function Say(Name,text){
+//     console.log(`Hello ${Name}`);
+//     text();
+// }
 
-function Text(){
-    console.log("how are you ")
-}
-Say("Shahrom",Text);
+// function Text(){
+//     console.log("how are you ")
+// }
+// Say("Shahrom",Text);
 
+
+let num = 4;
+let Prom = new Promise(function(resolve,reject){
+    if(num %2==0){
+        resolve("Even");
+    }
+    else{
+        reject("Odd");
+    }
+});
+
+console.log(Prom);
