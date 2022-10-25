@@ -27,9 +27,9 @@
 ## #3 Try/catch/finally and Asunc await
 
 #
-## Try/catch/finally and method errors
+## Try/catch/finally
 ![](./img/js11.jpg)
-#
+## Methods error
 ![](./img/js8.jpg)
 #
 ![](./img/js9.jpg)
